@@ -1,0 +1,644 @@
+    1  javac leapyear.java
+    2  gcj-5-jdk
+    3  openjdk-9-jdk-headless
+    4  man sudo_root
+    5  javac 
+    6  sudo apt install <selected package>
+    7  javac 
+    8  sudo apt install packages
+    9  eclipse
+   10  cd root
+   11  cd --
+   12  javac mz.java
+   13  javac leapyear.java
+   14  javac 
+   15  man javac
+   16  man all
+   17  man 
+   18  man hepl
+   19  man help
+   20  sudo apt install all
+   21  sudo apt  install javac 
+   22  javac 
+   23  default-jdk
+   24  openjdk-8-jdk-headless
+   25  javac
+   26  sudo apt-get update -y
+   27  sudo apt-get install -y ecj
+   28  javac 
+   29  javac leapyear.java
+   30  java leapyear
+   31  javac leapyear.java
+   32  java leapyear
+   33  ls
+   34  tar xfz eclipse-dsl-neon-3-linux-gtk-x86_64.tar.gz 
+   35  ls
+   36  cd eclipse
+   37  ls
+   38  sudo ./eclipse-inst
+   39  sudo ./ eclipse-inst
+   40  sudo ./
+   41  sudo ./eclipse-inst
+   42  javac GfG.java
+   43  java GfG
+   44  javac GfG.java
+   45  java GfG
+   46  javac GfG.java
+   47  java GfG
+   48  javac GfG.java
+   49  java GfG
+   50  javac GfG.java
+   51  java GfG
+   52  javac GfG.java
+   53  java GfG
+   54  javac link.java
+   55  java link
+   56  javac LinkedList.java
+   57  java LinkedList
+   58  javac LinkedList.java
+   59  java LinkedList
+   60  javac LinkedList.java
+   61  java LinkedList
+   62  javac LinkedList.java
+   63  javac GfG.java
+   64  java GfG
+   65  javac GfG.java
+   66  java GfG
+   67  javac GfG.java
+   68  java GfG
+   69  javac GfG.java
+   70  java GfG
+   71  javac GfG.java
+   72  java GfG
+   73  javac GfG.java
+   74  java GfG
+   75  javac GfG.java
+   76  java GfG
+   77  javac GfG.java
+   78  java GfGjavac GfG.java
+   79  javac GfG.java
+   80  java GfG
+   81  javac GfG.java
+   82  java GfG
+   83  javac GfG.java
+   84  java GfG
+   85  javac GfG.java
+   86  java GfG
+   87  javac GfG.java
+   88  java GfG
+   89  javac GfG.java
+   90  java GfG
+   91  javac GfG.java
+   92  java GfG
+   93  cd /opt
+   94  sudo tar -xvzf ~/Downloads/eclipse-jee-2019-03-R-linux-gtk-x86_64.tar.gz
+   95  sudo tar -xvzf ~/home/abc/Downlods
+   96  sudo tar -xvzf ~/home/abc/Downlods eclipse-dsl-neon-3-linux-gtk-x86_64.tar.gz
+   97  sudo tar -xvzf ~/home/abc/Downloads/clipse-jee-2019-03-R-linux-gtk-x86_64.tar.gz
+   98  sudo tar -xvzf ~/home/abc/Downloads/eclipse-jee-2019-03-R-linux-gtk-x86_64.tar.gz
+   99  cd /opt
+  100  sudo tar -xvzf ~/Downloads/eclipse-jee-2019-03-R-linux-gtk-x86_64.tar.gz
+  101  /eclipse-jee-2019-03-R-linux-gtk-x86_64.tar.gz
+  102  eclipse-jee-2019-03-R-linux-gtk-x86_64.tar.gz
+  103  sudo tar -xvzf ~/home/abc/Downloads/home/abc/Downloads
+  104  /home/abc
+  105  /home
+  106  javac basic.java
+  107  cd Desktop/BootCampPrajakta
+  108  javac LeapYear.java
+  109  java LeapYear
+  110  javac SpringSeason.java
+  111  java SpringSeason
+  112  javac Quadratic.java
+  113  java Quadratic
+  114  javac Quadratic.java
+  115  java Quadratic
+  116  javac Quadratic.java
+  117  java Quadratic
+  118  javac Quadratic.java
+  119  java Quadratic
+  120  javac Quadratic.java
+  121  java Quadratic
+  122  javac SumOfTwoDices.java
+  123  java SumOfTwoDices
+  124  javac SumOfTwoDices.java
+  125  java SumOfTwoDices
+  126  javac SumOfTwoDices.java
+  127  javac Test.java
+  128  java Test
+  129  java Test 1 2
+  130  javac SumOfTwoDices.java
+  131  java SumOfTwoDices 23 12
+  132  javac SumOfTwoDices.java
+  133  java SumOfTwoDices
+  134  javac SumOfTwoDices.java
+  135  java SumOfTwoDices
+  136  javac SumOfTwoDices.java
+  137  java SumOfTwoDices
+  138  javac Stat5.java
+  139  javac Stats5.java
+  140  java Stats5
+  141  javac Stats5.java
+  142  java Stats5
+  143  cd Desktop/Boot
+  144  cd Desktop/BootCampPrajakta
+  145  javac CarLoan.java
+  146  java CarLoan
+  147  java CarLoan 12000 4 2.5
+  148  javac Prime.java
+  149  java Prime
+  150  javac Prime.java
+  151  java Prime
+  152  javac Prime.java
+  153  java Prime
+  154  javac Prime.java
+  155  java Prime
+  156  javac Binary.java
+  157  java Binary
+  158  javac Binary.java
+  159  java Binary
+  160  javac Binary.java
+  161  java Binary
+  162  javac Binary.java
+  163  java Binary
+  164  javac Binary1.java
+  165  java Binary1 106
+  166  javac Binary.java
+  167  java Binary
+  168  javac Binary.java
+  169  java Binary
+  170  javac Binaryy.java
+  171  javac Binary.java
+  172  java Binary
+  173  javac Binary.java
+  174  java Binary
+  175  java Binary
+  176  javac Binaryy.java
+  177  java Binaryy
+  178  javac Binaryy.java
+  179  java Binaryy
+  180  javac Binaryy.java
+  181  javac RollDie.java
+  182  java RollDie
+  183  javac RollDie.java
+  184  java RollDie
+  185  javac 
+  186  javac Array.java
+  187  java Array
+  188  javac Array.java
+  189  java Array
+  190  javac Array.java
+  191  java Array
+  192  cd Desktop/BootCampPrajakta
+  193  javac StdStats.java
+  194  javac A.java
+  195  javac A
+  196  java A
+  197  javac StdStats.java
+  198  java StdStats
+  199  javac StdStats.java
+  200  java StdStats
+  201  javac StdStats1.java
+  202  javac Array1.java
+  203  cd Desktop/BootCampPrajakta
+  204  javac Array1.java
+  205  cd ..
+  206  cd abc@abc
+  207  clear
+  208  java -version
+  209  sudo apt-get install openjdk-7-jdk
+  210  sudo apt-get install openjdk-8-jdk
+  211  javac
+  212  java -version
+  213  cd Desktop
+  214  javac Sorting.java
+  215  java Sorting
+  216  javac Sorting.java
+  217  java Sorting
+  218  javac Sorting.java
+  219  java Sorting
+  220  javac Sorting.java
+  221  java Sorting
+  222  javac Sorting.java
+  223  java Sorting
+  224  javac Sorting.java
+  225  java Sorting
+  226  javac Sorting.java
+  227  java Sorting
+  228  cd Desktop
+  229  javac Sorting.java
+  230  java Sorting
+  231  javac Sorting.java
+  232  java Sorting
+  233  javac Replace.java
+  234  java Replace
+  235  javac Replace.java
+  236  java Replace
+  237  javac Palindrome.java
+  238  java Palindrome
+  239  javac Rep.java
+  240  java Rep
+  241  javac Rep.java
+  242  java Rep
+  243  javac Rep.java
+  244  java Rep
+  245  javac Rep.java
+  246  java Rep
+  247  javac Rep.java
+  248  java Rep
+  249  javac Rep.java
+  250  java Rep
+  251  javac Rep.java
+  252  java Rep
+  253  javac Rep.java
+  254  java Rep
+  255  cd Desktop
+  256  javac LeapYear.java
+  257  java LeapYear
+  258  cd Desktop
+  259  javac LeapYear.java
+  260  java LeapYear
+  261  javac LeapYear.java
+  262  java LeapYear
+  263  javac LeapYear.java
+  264  java LeapYear
+  265  javac LeapYear.java
+  266  java LeapYear
+  267  javac LeapYear.java
+  268  java LeapYear
+  269  javac LeapYear.java
+  270  java LeapYear
+  271  javac LeapYear.java
+  272  java LeapYear
+  273  javac LeapYear.java
+  274  java LeapYear
+  275  javac LeapYear.java
+  276  java LeapYear
+  277  cd Desktop
+  278  javac LeapYear.java
+  279  java LeapYear
+  280  javac LeapYear.java
+  281  java LeapYear
+  282  cd Deskto[
+  283  cd Desktop
+  284  javac PrimePalin.java
+  285  java PrimePalin
+  286  javac PrimePalin.java
+  287  java PrimePalin
+  288  javac PrimePalin.java
+  289  java PrimePalin
+  290  javac PrimePalin.java
+  291  java PrimePalin
+  292  javac PrimePalin.java
+  293  java PrimePalin
+  294  javac PrimePalin.java
+  295  java PrimePalin
+  296  javac Palindrome.java
+  297  java Palindrome
+  298  javac Palindrome.java
+  299  java Palindrome
+  300  javac Palindrome.java
+  301  java Palindrome
+  302  javac Palindrome.java
+  303  java Palindrome
+  304  javac Palindrome.java
+  305  java Palindrome
+  306  javac Palindrome.java
+  307  java Palindrome
+  308  cd Desktop
+  309  javac LinearSearch.java
+  310  javac BinarySearch.java
+  311  java BinarySearch
+  312  javac BinarySearch.java
+  313  java BinarySearch
+  314  cd Desktop
+  315  javac BinarySearch.java
+  316  java BinarySearch
+  317  cd Desktop
+  318  javac BinarySearch.java
+  319  java BinarySearch
+  320  javac BinarySearch.java
+  321  java BinarySearch
+  322  cd Desktop
+  323  javac BinarySearch.java
+  324  java BinarySearch
+  325  cd Desktop
+  326  javac BinarySearch.java
+  327  java BinarySearch
+  328  javac BinarySearch.java
+  329  java BinarySearch
+  330  javac Bubble.java
+  331  java Bubble
+  332  javac Bubble.java
+  333  java Bubble
+  334  javac Insertion.java
+  335  java Insertion
+  336  javac Pattern.java
+  337  java Pattern
+  338  javac Pattern.java
+  339  java Pattern
+  340  javac Pattern.java
+  341  java Pattern
+  342  javac Pattern.java
+  343  java Pattern
+  344  javac Pattern1.java
+  345  java Pattern1
+  346  javac Pattern1.java
+  347  java Pattern1
+  348  javac Pattern2.java
+  349  java Pattern2
+  350  javac Pattern2.java
+  351  java Pattern2
+  352  javac Pattern2.java
+  353  java Pattern2
+  354  javac Pattern2.java
+  355  java Pattern2
+  356  javac Pattern2.java
+  357  java Pattern2
+  358  javac Pattern2.java
+  359  java Pattern2
+  360  javac Pattern2.java
+  361  java Pattern2
+  362  javac Pattern2.java
+  363  java Pattern2
+  364  javac Pattern2.java
+  365  java Pattern2
+  366  javac Pattern2.java
+  367  java Pattern2
+  368  javac Pattern2.java
+  369  java Pattern2
+  370  javac Pattern2.java
+  371  java Pattern2
+  372  javac Pattern2.java
+  373  java Pattern2
+  374  javac Pattern2.java
+  375  java Pattern2
+  376  javac Pattern2.java
+  377  java Pattern2
+  378  javac Pattern2.java
+  379  java Pattern2
+  380  javac Pattern2.java
+  381  java Pattern2
+  382  javac Pattern2.java
+  383  java Pattern2
+  384  javac Pattern2.java
+  385  java Pattern2
+  386  javac Pattern2.java
+  387  java Pattern2
+  388  javac Pattern2.java
+  389  java Pattern2
+  390  javac Pattern2.java
+  391  java Pattern2
+  392  javac Pattern2.java
+  393  java Pattern2
+  394  javac Pattern2.java
+  395  java Pattern2
+  396  javac Pattern2.java
+  397  java Pattern2
+  398  javac Pattern2.java
+  399  java Pattern2
+  400  javac Pattern2.java
+  401  java Pattern2
+  402  javac Pattern2.java
+  403  java Pattern2
+  404  javac Pattern2.java
+  405  java Pattern2
+  406  javac Pattern2.java
+  407  javac Pattern2.java
+  408  java Pattern2
+  409  javac Pattern2.java
+  410  java Pattern2
+  411  javac Pattern2.java
+  412  java Pattern2
+  413  pwd
+  414  ls
+  415  cd Pictures
+  416  cd
+  417  cd Documents
+  418  ls
+  419  cd BootCampPrajakta
+  420  cd..
+  421  cd
+  422  cd Desktop
+  423  ls
+  424  cd Downloads
+  425  cd
+  426  cd Downloads
+  427  ls
+  428  cd ..
+  429  cd Pictures
+  430  ls
+  431  cd Screenshot\ from\ 2019-12-10\ 15-36-27
+  432  cd Screenshot\from\2019-12-10\15-36-27
+  433  cd ..
+  434  cd
+  435  pwd
+  436  ls
+  437  cd Desktop
+  438  mkdir dhanashree
+  439  mkdir Dhanashree\Bhide
+  440  rmdir dhanashree
+  441  cd
+  442  ped
+  443  pwd
+  444  ls
+  445  cd Desktop
+  446  cd Dhanashree\Bhide
+  447  cd ..
+  448  rmdir Dhanashree\Bhide
+  449  rm Dhanashree\Bhide
+  450  cd
+  451  java
+  452  javac
+  453  java-version
+  454  java -version
+  455  mkdir TerminalCommands
+  456  cd TerminalCommands/
+  457  cd
+  458  git
+  459  % sudo snap install vlc
+  460  sudo
+  461  sudo snap install vlc
+  462  Y
+  463  sudo apt-get update
+  464  sudo apt-get install vlc
+  465  java -version
+  466  ls
+  467  mkdir Dhanashree
+  468  cd Dhanashree
+  469  mkdir TerminalCommands
+  470  ls
+  471  cd TerminalCommands/
+  472  git -version
+  473  sudo apt install git
+  474  https://github.com/edurekavivekh/linux-content.git
+  475  git clone https://github.com/edurekavivekh/linux-content.git
+  476  ls
+  477  cd linux-content/
+  478  ls
+  479  pwd
+  480  ls
+  481  ls .
+  482  ls ..
+  483  clear
+  484  pwd
+  485  ls .
+  486  ls ..
+  487  ls ~
+  488  ls -a
+  489  -l
+  490  - l
+  491  ls -l
+  492  man ls
+  493  mkdir temp
+  494  ls
+  495  rm -R temp
+  496  ls
+  497  mkdir -p temp/temp
+  498  ls
+  499  cd temp
+  500  pwd
+  501  ls
+  502  touch test
+  503  ls -p
+  504  clear
+  505  cd temp
+  506  cd .
+  507  cd
+  508  cd Dhanashree/
+  509  TerminalCommands/
+  510  cd TerminalCommands/
+  511  cd linux-content/
+  512  cd temp/
+  513  ls
+  514  cp test test1
+  515  ls -p
+  516  mv test1 test2
+  517  ls -p
+  518  ln -s test temp/
+  519  ls -p temp
+  520  ln -s ../linux-content/linux_chit_sheet.pdf ~/QuickLink/
+  521  clear
+  522  whereis ls
+  523  ls /bin
+  524  man ls
+  525  claer
+  526  clear
+  527  ls -l /etc/passwd
+  528  ls /etc/passwd
+  529  ls -l /etc/passwd
+  530  less /etc/passwd
+  531  cd Dhanashree
+  532  cd TerminalCommands/
+  533  cd linux-content/
+  534  cd temp/
+  535  ls
+  536  cd ..
+  537  ln -s ../linux-content/linux_chit_sheet.pdf ~/QuickLink/
+  538  ln -s ../Dhanashree/TerminalCommand/linux-content/linux_chit_sheet.pdf ~/QuickLink/
+  539  ls -l ~/QuickLink/
+  540  ln -s ../Dhanashree/TerminalCommand/linux-content/linux_chit_sheet.pdf ~/QuickLink/
+  541  ls -l ~/QuickLink/
+  542  cd linux-content/
+  543  touch text1.txt
+  544  cd ..
+  545  ln -s ../Dhanashree/TerminalCommand/linux-content/text1.txt ~/QuickLink/
+  546  ls -l ~/QuickLink/
+  547  ln -s ../Dhanashree/TerminalCommand/linux-content/text1.txt ~/QuickLink
+  548  ls -l ~/QuickLink/
+  549  ln -s ../Dhanashree/TerminalCommand/linux-content/linux_chit_sheet.pdf ~/QuickLink
+  550  ls -l ~/QuickLink/
+  551  clear
+  552  cd linux-content/
+  553  cd temp/
+  554  ls -l /etc/passwd
+  555  less /etc/passwd
+  556  cd Dhanashree
+  557  cd TerminalCommands/
+  558  cd linux-content/
+  559  cd temp/
+  560  cat /etc/passwd
+  561  cd ..
+  562  find . -size +5M
+  563  find . -size 5M
+  564  find . -name *.pdf -size +5M
+  565  find . -size +5M -type f
+  566  find . -name *.txt -size -5M
+  567  find . -size -5M | grep .pdf
+  568  find . -size -5M | grep pdf
+  569  cd linux-content/
+  570  find . -size -5M | grep pdf
+  571  find . -size -5M | grep .pdf
+  572  cd ..
+  573  find . -size +5M | grep .pdf
+  574  find . -name *csv
+  575  find . -name data*
+  576  find . -name *data
+  577  find . -name csv*
+  578  find . -name *csv
+  579  grep CAPTAIN linux-content/data.csv
+  580  grep -r CAPTAIN .
+  581  grep -ir CAPTAIN .
+  582  grep -ir CAPTAIN 
+  583  grep -ir captain
+  584  grep CAPTAIN /data.csv
+  585  grep deputycheif linux-content/data.csv
+  586  grep -i GM
+  587  grep -ir MECHANIC .
+  588  clear
+  589  cd linux-content/
+  590  cd temp/
+  591  ls -p | /
+  592  ls -p | grep /
+  593  ls -p | grep -v /
+  594  mkdir newDir
+  595  ls -p | grep /
+  596  cd ..
+  597  ls -p | grep /
+  598  cd linux-content/
+  599  cd temp/
+  600  clear
+  601  env
+  602  env | grep USER
+  603  env | grep | USER
+  604  env | grep | user
+  605  env | grep USER
+  606  clear
+  607  env | grep USER
+  608  echo $USER
+  609  whereis bash
+  610  bash -version
+  611  cd ..
+  612  echo $SHELL
+  613  echo $HOME
+  614  du -sh linux-content/
+  615  du -sm * | sort -nr
+  616  cd linux-content/
+  617  du -sh 
+  618  cd ..
+  619  cd linux-content/
+  620  du -sm * | sort -nr
+  621  du -sk * | sort -nr
+  622  find . -type f -empty
+  623  clear
+  624  cd ..
+  625  nano -T 3 HelloWorld.java
+  626  java HelloWorld
+  627  ls -l
+  628  java HelloWorld
+  629  nano -T 3 HelloWorld.java
+  630  ls -l
+  631  java HelloWorld.java
+  632  nano -T 3 HelloWorld.java
+  633  javac HelloWorld.java
+  634  java HelloWorld
+  635  nano -T 3 HelloWorld.java
+  636  javac HelloWorld.java
+  637  nano -T 3 HelloWorld.java
+  638  javac HelloWorld.java
+  639  nano -T 3 HelloWorld.java
+  640  javac HelloWorld.java
+  641  java HelloWorld
+  642  ps -elf | grep java | grep -v grep
+  643  history
+  644  history > Commands_15-1
